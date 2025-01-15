@@ -30,3 +30,23 @@
 | ------- | ------ | -------- |
 | 3       | 2      | 1        |
 | 10      | 5      | 0        |
+
+<br>
+
+#### 입출력 예 설명
+
+- **입출력 예 1️⃣**
+  - `num1`이 3, `num2`가 2이므로 3을 2로 나눈 나머지 1을 return 합니다.
+- **입출력 예 2️⃣**
+  - `num1`이 10, `num2`가 5이므로 10을 5로 나눈 나머지 0을 return 합니다.
+
+<br>
+
+```javascript
+function solution(num1, num2) {
+  // do something
+}
+
+console.log(solution(3, 2)); // 1
+console.log(solution(10, 5)); // 0
+```

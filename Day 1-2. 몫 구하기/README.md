@@ -30,3 +30,23 @@
 | ------- | ------ | -------- |
 | 10      | 5      | 2        |
 | 7       | 2      | 3        |
+
+<br>
+
+#### 입출력 예 설명
+
+- **입출력 예 1️⃣**
+  - `num1`이 10, `num2`가 5이므로 10을 5로 나눈 몫 2를 `return` 합니다.
+- **입출력 예 2️⃣**
+  - `num1`이 7, `num2`가 2이므로 7을 2로 나눈 몫 3을 `return` 합니다.
+
+<br>
+
+```javascript
+const solution = (num1, num2) => {
+  // do something
+};
+
+console.log(solution(10, 5)); // 2
+console.log(solution(7, 2)); // 3
+```
