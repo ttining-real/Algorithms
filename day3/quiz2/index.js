@@ -1,4 +1,5 @@
 // n의 배수
+
 const solution = (num, n) => {
   // do something
   if (num % n === 0) {
