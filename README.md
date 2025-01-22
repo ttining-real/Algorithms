@@ -80,7 +80,7 @@
 
 #### 🗓️ 2025.01.22
 
-- [x] Star pattern 1
 - [x] Star pattern 2
+- [x] Star pattern 3
 
 <br>
