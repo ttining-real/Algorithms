@@ -75,3 +75,12 @@
 - [x] Star pattern 1
 
 <br>
+
+## 🌻 Day 8
+
+#### 🗓️ 2025.01.22
+
+- [x] Star pattern 1
+- [x] Star pattern 2
+
+<br>
