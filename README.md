@@ -84,3 +84,12 @@
 - [x] Star pattern 3
 
 <br>
+
+## 🌻 Day 9
+
+#### 🗓️ 2025.01.23
+
+- [x] Star pattern 4
+- [x] Star pattern 5
+
+<br>
