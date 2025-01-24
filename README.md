@@ -93,3 +93,12 @@
 - [x] Star pattern 5
 
 <br>
+
+## 🌻 Day 10
+
+#### 🗓️ 2025.01.24
+
+- [x] Star pattern 6
+- [x] Star pattern 7
+
+<br>
