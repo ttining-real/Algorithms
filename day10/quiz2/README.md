@@ -4,7 +4,7 @@
 
 <br>
 
-## ⭐ Star pattern 5
+## ⭐ Star pattern 7
 
 ### 📍 문제 설명
 
